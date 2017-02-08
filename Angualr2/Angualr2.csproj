@@ -183,7 +183,7 @@
     <Content Include="Scripts\shim.min.js" />
     <Content Include="Scripts\system.src.js" />
     <Content Include="Scripts\systemjs.config.js" />
-    <Content Include="Scripts\zone.min.js" />
+    <Content Include="Scripts\zone.js" />
     <Content Include="Scripts\_references.js" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
@@ -200,8 +200,8 @@
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="package.json" />
-    <Content Include="tsconfig.json" />
     <Content Include="Views\Shared\_PartiallByAngular.cshtml" />
+    <Content Include="tsconfig.json" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
